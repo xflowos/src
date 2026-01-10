@@ -875,36 +875,36 @@ GPL-3.0 - See [LICENSE](LICENSE)
 - [x] Docker & K8s manifests
 - [x] CI/CD workflows
 
-### v0.6.0 (Q2 2026)
-- [ ] gRPC support
-- [ ] GraphQL support
-- [ ] Database migrations
+### v0.6.0
+- [ ] +git features.
+- [ ] flow intergration.
+  - [ ] zit
+  - [ ] zfs support
+  - [ ] 9p afero intergration
 - [ ] Authentication middleware (OAuth2, OIDC)
-- [ ] Rate limiting
 - [ ] Caching layer
 
-### v0.7.0 (Q3 2026)
-- [ ] Multi-language client SDKs (TypeScript, Python, Rust)
+### v0.7.0 
 - [ ] Schema versioning & migrations
-- [ ] Plugin system
-- [ ] Custom template support
+- [ ] Full bubbletea ... component intergration
+- [ ] agentic tooling
+
+### v0.8.0
+- [ ] flowlang
+  - [ ] langpacks
+
+### v0.9.0
+- [ ] flow intergration
+  - [ ] pkg
+  - [ ] cfg
+  - [ ] run
+  - [ ] send
+  - [ ] recv
 
 ### v1.0.0 (Q4 2026)
 - [ ] Production hardening
 - [ ] Performance optimization
-- [ ] Comprehensive documentation
-- [ ] Enterprise features
-
----
-
-## Examples
-
-See [examples/](examples/) for complete projects:
-
-- **[hello-world](examples/hello-world)** - Minimal API
-- **[blog-api](examples/blog-api)** - CRUD operations
-- **[auth-service](examples/auth-service)** - JWT authentication
-- **[microservices](examples/microservices)** - Multi-service architecture
+- [ ] storyboard
 
 ---
 
